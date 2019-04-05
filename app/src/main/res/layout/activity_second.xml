@@ -8,17 +8,6 @@
     android:gravity="bottom">
 
 
-    <!--
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginLeft="20dp"
-        android:layout_marginRight="20dp"
-        android:layout_marginBottom="150dp"
-        android:text="Point of Origin執行完畢\n\n可以看到ImagView從列表左方 移動放大 至下方\n\n請按[返回鍵]回上一頁"
-        android:gravity="center"/>
-                                        -->
-
     <ImageView
         android:id="@+id/image"
         android:layout_width="match_parent"

@@ -8,17 +8,35 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-<Button
-    android:layout_width="match_parent"
-    android:layout_height="60dp"
-    android:text="HELLO, POINT OF ORIGIN"
-    android:id="@+id/button_01" />
 
+
+<ImageView
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/welcome" />
+
+
+    <Button
+         android:layout_width="match_parent"
+         android:layout_height="60dp"
+         android:text="請點擊此處進入"
+         android:id="@+id/button_01" />
+
+
+
+
+    <!--
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="點擊上方按鈕\n看展示"
         android:gravity="center" />
+
+     -->
+
+
+
 
 
 </LinearLayout>

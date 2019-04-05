@@ -10,15 +10,7 @@ import android.support.v7.widget.RecyclerView;
 
 public class FirstActivity extends Activity {
 
-    /*private String[] name = {
-            "Umbrella Droid",
-            "Box Droid",
-            "Injured Droid",
-            "Evil Droid",
-            "Shadow Droid"
-    }; */
-
-    private String[] name={
+     private String[] name={
             "1.文字、圖像呈現牙齒部位",
             "2.正中門齒",
             "2.側門齒",
@@ -43,31 +35,6 @@ public class FirstActivity extends Activity {
             "下顎第一大臼齒和下顎第二大臼齒的鑒別"
     };
 
-    /*
-    private int[] imgSmall = {
-            R.drawable.droid1_s,
-            R.drawable.droid2_s,
-            R.drawable.droid3_s,
-            R.drawable.droid4_s,
-            R.drawable.droid5_s,
-            R.drawable.droid6_s,
-            R.drawable.droid7_s,
-            R.drawable.droid8_s,
-            R.drawable.droid9_s,
-            R.drawable.droid10_s,
-            R.drawable.droid11_s,
-            R.drawable.droid12_s,
-            R.drawable.droid13_s,
-            R.drawable.droid14_s,
-            R.drawable.droid15_s,
-            R.drawable.droid16_s,
-            R.drawable.droid17_s,
-            R.drawable.droid18_s,
-            R.drawable.droid19_s,
-            R.drawable.droid20_s,
-            R.drawable.droid21_s,
-            R.drawable.droid22_s
-    };                                       */
 
     private int[] imgSmall = {
             R.drawable.i_1_001a_s,
